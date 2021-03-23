@@ -2,3 +2,7 @@ Saham yang harus dibeli / investasi untuk hari tua
 -wskt(waskita)
 -wika(wijaya karya)
 -cent 
+-hsmp
+-fren
+-bbri
+-bmri
